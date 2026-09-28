@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# PDFs and other non-code files
+*.pdf
+*.zip
+*.md except README.md
+
+# Wallpapers
+Wallpapers/
+Wallpapers.zip
+__MACOSX/
